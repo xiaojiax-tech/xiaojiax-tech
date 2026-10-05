@@ -1,18 +1,38 @@
 name: Generate Contribution Chart
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
-      - uses: dturovskiy/deus-commit-chart@v1
+
+      - name: Generate chart
+        uses: dturovskiy/deus-commit-chart@v1
         with:
           username: ${{ github.repository_owner }}
           token: ${{ github.token }}
           default-days: '365'
           ranges: '365'
+
+      - name: List generated files
+        run: |
+          echo "=== 根目录 ==="
+          ls -la
+          echo "=== 查找所有 svg ==="
+          find . -name "*.svg" -not -path "./.git/*"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update contribution chart"
+          git push
