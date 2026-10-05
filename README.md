@@ -1,48 +1,58 @@
-﻿# 浣犲ソ锛屾垜鏄?xiaojia 馃憢
+# 你好，我是 xiaojia 👋
 
 <div align="center">
 
-<h3 align="center">鍏ㄦ爤寮€鍙戣€?路 寮€婧愭帰绱㈣€?路 浜戝師鐢熷疄璺佃€?/h3>
+<h3>全栈开发者 · 开源探索者 · 云原生实践者</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=鎶婃兂娉曞仛鎴愪骇鍝?Python+%7C+TypeScript+%7C+Java;鎸佺画瀛︿範锛屾寔缁瀯寤?Docker+鐖卞ソ鑰?font=Fira+Code&size=22&color=333333&background=FFFFFF00&center=true&vCenter=true&width=560&height=70)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=把想法做成产品;Python+%7C+TypeScript+%7C+Java;持续学习，持续构建;Docker+爱好者&font=Fira+Code&size=22&color=333333&background=FFFFFF00&center=true&vCenter=true&width=560&height=70)
 
-![Profile Views](https://komarev.com/ghpvc/?username=xiaojiax-tech&color=blue&style=flat-square&label=Profile+Views) ![GitHub followers](https://img.shields.io/github/followers/xiaojiax-tech?style=flat-square&label=Followers) ![GitHub User's stars](https://img.shields.io/github/stars/xiaojiax-tech?style=flat-square&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=xiaojiax-tech&color=blue&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/xiaojiax-tech?style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/xiaojiax-tech?style=flat-square&label=Stars)
 
 </div>
 
 ---
 
-<h2 align="center">馃鈥嶐煉?鍏充簬鎴?/h2>
+<h2 align="center">🧑‍💻 关于我</h2>
 
-鎴戝枩娆㈡妸瀹為檯闂鎷嗚В鎴愭竻鏅般€佸彲闈犮€佸彲鎸佺画杩唬鐨勪骇鍝佷笌浠ｇ爜銆傛棩甯镐娇鐢?**Python / TypeScript / Java**锛屽叧娉ㄥ悗绔伐绋嬨€佸墠绔綋楠屻€佽嚜鍔ㄥ寲閮ㄧ讲鍜屼簯鍘熺敓鎶€鏈€?
+我喜欢把实际问题拆解成清晰、可靠、可持续迭代的产品与代码。日常使用 **Python / TypeScript / Java**，关注后端工程、前端体验、自动化部署和云原生技术。
+
 <table align="center">
-  <tr><td>馃敪 姝ｅ湪鏋勫缓</td><td>鎶婃兂娉曡惤鍦颁负绠€鍗曞ソ鐢ㄧ殑宸ュ叿鍜屾湇鍔?/td></tr>
-  <tr><td>馃尡 姝ｅ湪瀛︿範</td><td>鍒嗗竷寮忕郴缁熴€佷簯鍘熺敓涓庢洿濂界殑宸ョ▼瀹炶返</td></tr>
-  <tr><td>馃惓 鏃ュ父鍋忓ソ</td><td>Docker銆佽嚜鍔ㄥ寲閮ㄧ讲銆佹竻鏅扮殑鏂囨。鍜屽彲缁存姢鐨勪唬鐮?/td></tr>
-  <tr><td>馃挰 搴у彸閾?/td><td><strong>琛岃嚦姘寸┓澶勶紝鍧愮湅浜戣捣鏃?/strong></td></tr>
+  <tr><td>🔭 正在构建</td><td>把想法落地为简单好用的工具和服务</td></tr>
+  <tr><td>🌱 正在学习</td><td>分布式系统、云原生与更好的工程实践</td></tr>
+  <tr><td>🐳 日常偏好</td><td>Docker、自动化部署、清晰的文档和可维护的代码</td></tr>
+  <tr><td>💬 座右铭</td><td><strong>行至水穷处，坐看云起时</strong></td></tr>
 </table>
 
-<h2 align="center">鈿?褰撳墠鐘舵€?/h2>
-
-<p align="center">![Building](https://img.shields.io/badge/Building-New%20ideas-2ea44f?style=flat-square&logo=rocket&logoColor=white) ![Learning](https://img.shields.io/badge/Learning-Cloud%20Native-4285F4?style=flat-square&logo=kubernetes&logoColor=white) ![Open Source](https://img.shields.io/badge/Open%20to-Open%20Source-8250df?style=flat-square&logo=github&logoColor=white) ![Available](https://img.shields.io/badge/Status-Available-00b894?style=flat-square&logo=telegram&logoColor=white)</p>
-
-<p align="center"><i>璁╂瘡涓€娆℃彁浜わ紝閮借涓嬩竴涓増鏈洿鎺ヨ繎鐞嗘兂銆?/i></p>
-
-<h2 align="center">馃О 鎴戠殑寮€鍙戞柟寮?/h2>
+<h2 align="center">📌 当前状态</h2>
 
 <div align="center">
 
-| 馃挕 鍏堢悊瑙ｉ棶棰?| 馃З 鍐嶆媶瑙ｆ柟妗?| 馃攣 鎸佺画杩唬 | 馃殌 鑷姩鍖栦氦浠?|
+![Building](https://img.shields.io/badge/Building-New%20ideas-2ea44f?style=flat-square&logo=rocket&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Cloud%20Native-4285F4?style=flat-square&logo=kubernetes&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20to-Open%20Source-8250df?style=flat-square&logo=github&logoColor=white)
+![Available](https://img.shields.io/badge/Status-Available-00b894?style=flat-square&logo=telegram&logoColor=white)
+
+</div>
+
+<p align="center"><i>让每一次提交，都让下一个版本更接近理想。</i></p>
+
+<h2 align="center">🧰 我的开发方式</h2>
+
+<div align="center">
+
+| 💡 先理解问题 | 🧩 再拆解方案 | 🔁 持续迭代 | 🚀 自动化交付 |
 |:---:|:---:|:---:|:---:|
-| 浠庣湡瀹為渶姹傚嚭鍙?| 鐢ㄧ畝鍗曠粨鏋勮В鍐冲鏉傞棶棰?| 灏忔鎻愪氦锛屽揩閫熷弽棣?| 鐢ㄥ鍣ㄥ拰 CI/CD 鍑忓皯閲嶅宸ヤ綔 |
+| 从真实需求出发 | 用简单结构解决复杂问题 | 小步提交，快速反馈 | 用容器和 CI/CD 减少重复工作 |
 
 </div>
 
 ---
 
-<h2 align="center">馃洜 鎶€鏈爤</h2>
+<h2 align="center">🛠 技术栈</h2>
 
-<p align="center"><strong>璇█</strong></p>
+<p align="center"><strong>语言</strong></p>
 
 <div align="center">
 
@@ -50,7 +60,7 @@
 
 </div>
 
-<p align="center"><strong>鍚庣涓庢暟鎹?/strong></p>
+<p align="center"><strong>后端与数据</strong></p>
 
 <div align="center">
 
@@ -58,7 +68,7 @@
 
 </div>
 
-<p align="center"><strong>鍓嶇涓庡伐绋嬪寲</strong></p>
+<p align="center"><strong>前端与工程化</strong></p>
 
 <div align="center">
 
@@ -66,7 +76,7 @@
 
 </div>
 
-<p align="center"><strong>鍩虹璁炬柦</strong></p>
+<p align="center"><strong>基础设施</strong></p>
 
 <div align="center">
 
@@ -76,41 +86,48 @@
 
 ---
 
-<h2 align="center">馃寪 缃戠珯涓庨」鐩?/h2>
+<h2 align="center">🌐 网站与项目</h2>
 
-<p align="center">杩欓噷棰勭暀 3 涓綅缃紝鏈潵鍙互鏇挎崲涓轰綘鐨勪釜浜虹綉绔欍€佸湪绾夸綔鍝佹垨閮ㄧ讲涓殑椤圭洰銆?/p>
+<p align="center">这里预留 3 个位置，未来可以替换为你的个人网站、在线作品或部署中的项目。</p>
 
 <table align="center">
   <tr>
-    <td width="33%" valign="top"><h3>馃毀 Project One</h3><p>Coming soon 路 涓€涓€煎緱鏈熷緟鐨勭綉绔欐垨椤圭洰銆?/p><p><code>Tech Stack</code></p><a href="https://your-site.example">璁块棶缃戠珯</a> 路 <a href="https://github.com/xiaojiax-tech/project-one">鏌ョ湅婧愮爜</a></td>
-    <td width="33%" valign="top"><h3>馃毀 Project Two</h3><p>Coming soon 路 涓€涓鍦ㄦ寔缁墦纾ㄧ殑浣滃搧銆?/p><p><code>Tech Stack</code></p><a href="https://your-site.example">璁块棶缃戠珯</a> 路 <a href="https://github.com/xiaojiax-tech/project-two">鏌ョ湅婧愮爜</a></td>
-    <td width="33%" valign="top"><h3>馃毀 Project Three</h3><p>Coming soon 路 涓嬩竴娈垫梾绋嬪嵆灏嗗紑濮嬨€?/p><p><code>Tech Stack</code></p><a href="https://your-site.example">璁块棶缃戠珯</a> 路 <a href="https://github.com/xiaojiax-tech/project-three">鏌ョ湅婧愮爜</a></td>
+    <td width="33%" valign="top"><h3>🚧 Project One</h3><p>Coming soon · 一个值得期待的网站或项目。</p><p><code>Tech Stack</code></p><a href="https://your-site.example">访问网站</a> · <a href="https://github.com/xiaojiax-tech/project-one">查看源码</a></td>
+    <td width="33%" valign="top"><h3>🚧 Project Two</h3><p>Coming soon · 一个正在持续打磨的作品。</p><p><code>Tech Stack</code></p><a href="https://your-site.example">访问网站</a> · <a href="https://github.com/xiaojiax-tech/project-two">查看源码</a></td>
+    <td width="33%" valign="top"><h3>🚧 Project Three</h3><p>Coming soon · 下一段旅程即将开始。</p><p><code>Tech Stack</code></p><a href="https://your-site.example">访问网站</a> · <a href="https://github.com/xiaojiax-tech/project-three">查看源码</a></td>
   </tr>
 </table>
 
-<h3 align="center">馃敆 甯哥敤閾炬帴</h3>
+<h3 align="center">🔗 常用链接</h3>
 
-[![Personal Website](https://img.shields.io/badge/涓汉缃戠珯-Coming%20soon-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://your-site.example) [![Live Project](https://img.shields.io/badge/鍦ㄧ嚎椤圭洰-Coming%20soon-0969da?style=flat-square&logo=vercel&logoColor=white)](https://your-project.example) [![Source Code](https://img.shields.io/badge/椤圭洰婧愮爜-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xiaojiax-tech)
+<div align="center">
+
+[![Personal Website](https://img.shields.io/badge/个人网站-Coming%20soon-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://your-site.example)
+[![Live Project](https://img.shields.io/badge/在线项目-Coming%20soon-0969da?style=flat-square&logo=vercel&logoColor=white)](https://your-project.example)
+[![Source Code](https://img.shields.io/badge/项目源码-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xiaojiax-tech)
+
+</div>
 
 ---
 
-<h2 align="center">馃搳 GitHub 鏁版嵁</h2>
+<h2 align="center">📊 GitHub 数据</h2>
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xiaojiax-tech&show_icons=true&bg_color=FFFFFF&title_color=333333&text_color=555555&icon_color=333333&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiax-tech&layout=compact&bg_color=FFFFFF&title_color=333333&text_color=555555&hide_border=true&langs_count=6)
+![Stats](https://github-readme-stats.vercel.app/api?username=xiaojiax-tech&show_icons=true&bg_color=FFFFFF&title_color=333333&text_color=555555&icon_color=333333&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiax-tech&layout=compact&bg_color=FFFFFF&title_color=333333&text_color=555555&hide_border=true&langs_count=6)
 
 </div>
 
-<h2 align="center">馃弳 鎴愬氨濂栨澂</h2>
+<h2 align="center">🔥 连续贡献</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=xiaojiax-tech&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies" width="800" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaojiax-tech&theme=default&hide_border=true&background=FFFFFF&stroke=333333&ring=333333&fire=333333&currStreakLabel=333333" alt="GitHub Streak" width="600" />
 
 </div>
 
-<h2 align="center">馃悕 璐＄尞璐悆铔?/h2>
+<h2 align="center">🐍 贡献贪吃蛇</h2>
 
 <div align="center">
 
@@ -118,12 +135,15 @@
 
 </div>
 
-<h2 align="center">馃摣 鑱旂郴鎴?/h2>
+<h2 align="center">📫 联系我</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-xiaojiax--tech-181717?style=flat-square&logo=github)](https://github.com/xiaojiax-tech) [![Email](https://img.shields.io/badge/Email-鑱旂郴鎴?EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-xiaojiax--tech-181717?style=flat-square&logo=github)](https://github.com/xiaojiax-tech)
+[![Email](https://img.shields.io/badge/Email-联系我-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
 
 ---
 
-<div align="center"><i>琛岃嚦姘寸┓澶勶紝鍧愮湅浜戣捣鏃躲€?/i></div>
-
-
+<div align="center"><i>行至水穷处，坐看云起时。</i></div>
