@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xiaojiax-tech/xiaojiax-tech/main/charts/activity-365d.svg" alt="Contribution Chart" width="900" />
+<img src="https://raw.githubusercontent.com/xiaojiax-tech/xiaojiax-tech/main/deus-commit-chart-dist/activity-365d.svg" alt="Contribution Chart" width="900" />
 
 </div>
 
