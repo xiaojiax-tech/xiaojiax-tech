@@ -1,0 +1,18 @@
+name: Generate Contribution Chart
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dturovskiy/deus-commit-chart@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          default-days: '365'
+          ranges: '365'

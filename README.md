@@ -1,14 +1,12 @@
-# 你好，我是 xiaojia 👋
-
 <div align="center">
 
-<h3>全栈开发者 · 开源探索者 · 云原生实践者</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,20&height=180&section=header&text=xiaojia&fontSize=70&fontColor=333333&animation=fadeIn&fontAlignY=40&desc=全栈开发者%20·%20开源探索者%20·%20云原生实践者&descAlignY=62&descSize=16)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=把想法做成产品;Python+%7C+TypeScript+%7C+Java;持续学习，持续构建;Docker+爱好者&font=Fira+Code&size=22&color=333333&background=FFFFFF00&center=true&vCenter=true&width=560&height=70)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xiaojiax-tech&color=blue&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/xiaojiax-tech?style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/xiaojiax-tech?style=flat-square&label=Stars)
+![Followers](https://img.shields.io/github/followers/xiaojiax-tech?style=flat-square&label=Followers&color=333333)
+![Stars](https://img.shields.io/github/stars/xiaojiax-tech?style=flat-square&label=Stars&color=333333)
 
 </div>
 
@@ -16,13 +14,18 @@
 
 <h2 align="center">🧑‍💻 关于我</h2>
 
+<div align="center">
+
 我喜欢把实际问题拆解成清晰、可靠、可持续迭代的产品与代码。日常使用 **Python / TypeScript / Java**，关注后端工程、前端体验、自动化部署和云原生技术。
+
+</div>
 
 <table align="center">
   <tr><td>🔭 正在构建</td><td>把想法落地为简单好用的工具和服务</td></tr>
   <tr><td>🌱 正在学习</td><td>分布式系统、云原生与更好的工程实践</td></tr>
   <tr><td>🐳 日常偏好</td><td>Docker、自动化部署、清晰的文档和可维护的代码</td></tr>
   <tr><td>💬 座右铭</td><td><strong>行至水穷处，坐看云起时</strong></td></tr>
+  <tr><td>🎵 最近循环</td><td><em>The Way I Still Love You</em></td></tr>
 </table>
 
 <h2 align="center">📌 当前状态</h2>
@@ -86,6 +89,33 @@
 
 ---
 
+<h2 align="center">📊 GitHub 数据</h2>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=xiaojiax-tech&show_icons=true&bg_color=FFFFFF&title_color=333333&text_color=555555&icon_color=333333&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiax-tech&layout=compact&bg_color=FFFFFF&title_color=333333&text_color=555555&hide_border=true&langs_count=6)
+
+</div>
+
+<h2 align="center">📈 贡献活动</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/xiaojiax-tech/xiaojiax-tech/main/charts/activity-365d.svg" alt="Contribution Chart" width="900" />
+
+</div>
+
+<h2 align="center">🐍 贡献贪吃蛇</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/xiaojiax-tech/xiaojiax-tech/output/github-snake.svg" alt="GitHub contribution snake" width="900" />
+
+</div>
+
+---
+
 <h2 align="center">🌐 网站与项目</h2>
 
 <p align="center">这里预留 3 个位置，未来可以替换为你的个人网站、在线作品或部署中的项目。</p>
@@ -110,31 +140,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub 数据</h2>
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=xiaojiax-tech&show_icons=true&bg_color=FFFFFF&title_color=333333&text_color=555555&icon_color=333333&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiax-tech&layout=compact&bg_color=FFFFFF&title_color=333333&text_color=555555&hide_border=true&langs_count=6)
-
-</div>
-
-<h2 align="center">🔥 连续贡献</h2>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaojiax-tech&theme=default&hide_border=true&background=FFFFFF&stroke=333333&ring=333333&fire=333333&currStreakLabel=333333" alt="GitHub Streak" width="600" />
-
-</div>
-
-<h2 align="center">🐍 贡献贪吃蛇</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/xiaojiax-tech/xiaojiax-tech/output/github-snake.svg" alt="GitHub contribution snake" width="900" />
-
-</div>
-
 <h2 align="center">📫 联系我</h2>
 
 <div align="center">
@@ -146,4 +151,10 @@
 
 ---
 
-<div align="center"><i>行至水穷处，坐看云起时。</i></div>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,20&height=120&section=footer)
+
+<i>行至水穷处，坐看云起时。</i>
+
+</div>
